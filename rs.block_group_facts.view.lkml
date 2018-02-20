@@ -1,5 +1,5 @@
 view: rs_block_group_facts {
-  sql_table_name: acs.fast_facts ;;
+  sql_table_name: demographics.fast_facts ;;
 
   dimension: logrecno_bg_map_block_group {
     hidden: yes
